@@ -6,4 +6,4 @@ Breaking down a Problem
    :caption: Breaking Down a Problem
    :maxdepth: 2
 
-   problem_solving.rst
+   getting_started.rst
