@@ -7,4 +7,5 @@ Breaking down a Problem
    :maxdepth: 2
 
    getting_started.rst
+   outputting_to_shell.rst
    variables.rst
