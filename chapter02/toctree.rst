@@ -8,4 +8,5 @@ Breaking down a Problem
 
    getting_started.rst
    outputting_to_shell.rst
+   getting_user_input.rst
    variables.rst
