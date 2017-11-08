@@ -24,6 +24,8 @@ If the user is using the [RunestoneServer](https://github.com/RunestoneInteracti
 ```
 runestone deploy
 ```
-to add the files to the local, **web2py** instance.
+to add the files to the local, **web2py** instance.  
+
+Ideally I should be able to create a Flask App that will do the same sort of job, so that I can control how the output looks too.
 
 
