@@ -18,3 +18,7 @@ but every computer system and every computer program essentially boils down to a
 thing we are going to do is make Python tell us a story, in other words we're going to get it to output some text and
 other things.
 
+Essentialky the main way of outputting text from a Python program is to use the **print** function, this takes a number of arguments, separated by commas, and at it's simplest tries to output each of them separated by spaces.
+
+
+
