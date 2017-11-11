@@ -18,3 +18,16 @@ but every computer system and every computer program essentially boils down to a
 thing we are going to do is make Python tell us a story, in other words we're going to get it to output some text and
 other things.
 
+So we are going to use this to make the program output some text in the Python shell, initially we are going to start
+with the simplest possible program which just outputs some text like we did in the previous section.
+
+.. activecode:: hello_world_01
+   :nocanvas: 
+   :caption: The Hello World Program
+   :language: python
+
+   print("Hello world!")
+
+If we run this it will just output the text which is between the two quote marks **"**. In technical terms this is a
+**string**, which is a piece of text that we can output, manipulate or pass to some other part of the program, so that
+it can do stuff to it.
