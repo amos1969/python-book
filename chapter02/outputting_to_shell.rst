@@ -31,3 +31,4 @@ with the simplest possible program which just outputs some text like we did in t
 If we run this it will just output the text which is between the two quote marks **"**. In technical terms this is a
 **string**, which is a piece of text that we can output, manipulate or pass to some other part of the program, so that
 it can do stuff to it.
+
